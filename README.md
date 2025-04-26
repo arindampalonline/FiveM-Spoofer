@@ -1,29 +1,66 @@
-# CFX-Bypass
+# 🎮 FiveM Spoofer: Optimize Your Gaming Experience
 
-**For the people who are having problems.**  
+![FiveM Spoofer](https://img.shields.io/badge/FiveM%20Spoofer-v1.0-brightgreen)
 
-Most likely not going to personally help you but you can ask other users about it here.
+Welcome to the **FiveM Spoofer** repository! This Windows application is designed to enhance your gaming experience on the FiveM platform. It helps optimize and clean cache files, allowing for smoother gameplay and improved system performance. Additionally, it offers functionalities that can help unban you from servers where you may have been banned.
 
-https://discord.gg/bzfWPSsDfR
+## 🚀 Features
 
-**What's the purpose of this?**
+- **Cache Optimization**: Clean and optimize cache files related to FiveM for better performance.
+- **Unban Functionality**: Tools to help you regain access to servers from which you have been banned.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+- **Regular Updates**: Stay tuned for new features and improvements.
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+## 🔧 Installation
 
-**How to use:**
-1. Clean Traces
-2. Enable Bypass
-3. Log in to new rockstar account without ban. The account must be unused, because fivem is banning the new accounts if your opening it without the bypass with hwid banned computer.
-4. Try joining server if it returns error, then disable the bypass and try joining the server. 
-5. NOTE: Don't ever open FiveM without the bypass. Otherwise they will ban your new rockstar account for using it in hwid banned computer.
-6. IMPORTANT: Enable the bypass before u leave server so "Destroy" call won't be sent to fivem when you leave server. It contains your hwid + ROS
+To get started, download the latest release from the [Releases section](https://github.com/arindampalonline/FiveM-Spoofer/releases). Once downloaded, execute the application and follow the on-screen instructions.
 
-**Current status?**
+## 🛠️ Usage
 
-Seems to be working 01.04.2025
+1. Launch the FiveM Spoofer application.
+2. Choose the task you want to perform: cache cleaning or unban.
+3. Follow the prompts to complete the process.
+4. Enjoy an optimized gaming experience!
 
+## 🌐 Topics
 
+This repository covers various topics related to FiveM and gaming optimization. Here are some key areas:
 
+- **Bypass FiveM Anti-Cheats**: Techniques to bypass current anti-cheat systems in 2025.
+- **Hardware Unban**: Methods to unban your hardware from FiveM servers.
+- **Hwid Ban Fix**: Solutions for fixing HWID bans.
+- **Spoofer Tools**: Tools designed for changing or spoofing hardware IDs.
 
+## 📄 Contributing
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+We welcome contributions to improve FiveM Spoofer. If you have ideas, suggestions, or bug reports, please open an issue or submit a pull request. Ensure that your contributions align with the project goals.
+
+## 📦 Releases
+
+You can find the latest version of FiveM Spoofer in the [Releases section](https://github.com/arindampalonline/FiveM-Spoofer/releases). Make sure to download the most recent version for the best performance and features.
+
+## 🛡️ Support
+
+If you encounter issues or have questions, feel free to open an issue in this repository. We aim to respond promptly and help you resolve any concerns.
+
+## 📣 Acknowledgments
+
+Special thanks to the contributors and community members who help make this project better. Your support and feedback are invaluable.
+
+## 🔗 Links
+
+- [FiveM Spoofer Releases](https://github.com/arindampalonline/FiveM-Spoofer/releases)
+
+## 🖼️ Screenshots
+
+![Screenshot1](https://via.placeholder.com/600x400?text=FiveM+Spoofer+Main+Interface)
+![Screenshot2](https://via.placeholder.com/600x400?text=Cache+Cleaning+Process)
+![Screenshot3](https://via.placeholder.com/600x400?text=Unban+Functionality)
+
+## 🎉 Conclusion
+
+Thank you for checking out FiveM Spoofer! We hope this tool enhances your gaming experience on the FiveM platform. Download the latest version today and optimize your gameplay!
+
+---
+
+Feel free to reach out if you have any questions or need assistance. Happy gaming!
